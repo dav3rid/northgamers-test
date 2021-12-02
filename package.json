@@ -7,7 +7,8 @@
     "setup-dbs": "psql -f db/setup.sql",
     "seed": "node db/run-seed.js",
     "test": "jest",
-    "dev": "nodemon listen.js"
+    "dev": "nodemon listen.js",
+    "start": "node listen.js"
   },
   "keywords": [],
   "author": "",
