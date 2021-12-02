@@ -1,0 +1,128 @@
+[
+  {
+    "game_title": "Mario Kart 64",
+    "release_year": 1996,
+    "console_name": "N64",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_mariokart64gold_thumb.jpg"
+  },
+  {
+    "game_title": "Donkey Kong",
+    "release_year": 1983,
+    "console_name": "NES",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nes/nes_donkeykong_thumb.jpg"
+  },
+  {
+    "game_title": "Mario Bros",
+    "release_year": 1985,
+    "console_name": "NES",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nes/nes_mariobros_thumb.jpg"
+  },
+  {
+    "game_title": "Donkey Kong Country",
+    "release_year": 1994,
+    "console_name": "SNES",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/super_nintendo/snes_donkeykongcountry_thumb.jpg"
+  },
+  {
+    "game_title": "Chrono Trigger",
+    "release_year": 1995,
+    "console_name": "SNES",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/super_nintendo/snes_chronotrigger_thumb.jpg"
+  },
+  {
+    "game_title": "Street Fighter 2",
+    "release_year": 1991,
+    "console_name": "SNES",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/super_nintendo/snes_streetfighterii_thumb.jpg"
+  },
+  {
+    "game_title": "Goldeneye",
+    "release_year": 1997,
+    "console_name": "N64",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_goldeneye_thumb.jpg"
+  },
+  {
+    "game_title": "Super Mario 64",
+    "release_year": 1996,
+    "console_name": "N64",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_supermario64_thumb.jpg"
+  },
+  {
+    "game_title": "F-Zero X",
+    "release_year": 1988,
+    "console_name": "N64",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/nintendo_64/n64_f-zerox_au_thumb.jpg"
+  },
+  {
+    "game_title": "Altered Beast",
+    "release_year": 1988,
+    "console_name": "MEGADRIVE",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/genesis/genesis_alteredbeast_thumb.jpg"
+  },
+  {
+    "game_title": "Sonic the Hedgehog",
+    "release_year": 1991,
+    "console_name": "MEGADRIVE",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/genesis/genesis_sonicthehedgehog_pal_thumb.jpg"
+  },
+  {
+    "game_title": "Dr Robotnik's Mean Bean Machine",
+    "release_year": 1993,
+    "console_name": "MEGADRIVE",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/genesis/genesis_drrobotniksmeanbeanmachine_eu_thumb.jpg"
+  },
+  {
+    "game_title": "ToeJam & Earl",
+    "release_year": 1991,
+    "console_name": "MEGADRIVE",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/genesis/genesis_toejamandearl_thumb.jpg"
+  },
+  {
+    "game_title": "Earthworm Jim",
+    "release_year": 1994,
+    "console_name": "MEGADRIVE",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/genesis/genesis_earthwormjim_thumb.jpg"
+  },
+  {
+    "game_title": "Crash Bandicoot",
+    "release_year": 1996,
+    "console_name": "PS1",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_1/ps1_crashbandicoot_thumb.jpg"
+  },
+  {
+    "game_title": "Tekken 2",
+    "release_year": 1995,
+    "console_name": "PS1",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_1/ps1_tekken2_thumb.jpg"
+  },
+  {
+    "game_title": "Final Fantasy VII",
+    "release_year": 1997,
+    "console_name": "PS1",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_1/ps1_finalfantasy7_front_eu_thumb.jpg"
+  },
+  {
+    "game_title": "Metal Gear Solid 2: Sons of Liberty",
+    "release_year": 2001,
+    "console_name": "PS2",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_2/ps2_metalgearsolid2sonsofliberty_eu_thumb.jpg"
+  },
+  {
+    "game_title": "Metal Gear Solid 3: Snake Eater",
+    "release_year": 2004,
+    "console_name": "PS2",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_2/ps2_metalgearsolid3snakeeater_de_thumb.jpg"
+  },
+  {
+    "game_title": "Final Fantasy X",
+    "release_year": 2001,
+    "console_name": "PS2",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_2/ps2_finalfantasyx_thumb.jpg"
+  },
+  {
+    "game_title": "Final Fantasy XII",
+    "release_year": 2006,
+    "console_name": "PS2",
+    "image_url": "https://coverproject.sfo2.cdn.digitaloceanspaces.com/playstation_2/ps2_finalfantasyxii_thumb.jpg"
+  }
+]
